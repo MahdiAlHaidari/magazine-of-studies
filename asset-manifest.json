@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magazine-of-studies/static/css/main.ccbec386.css",
+    "main.js": "/magazine-of-studies/static/js/main.017d0226.js",
+    "index.html": "/magazine-of-studies/index.html",
+    "main.ccbec386.css.map": "/magazine-of-studies/static/css/main.ccbec386.css.map",
+    "main.017d0226.js.map": "/magazine-of-studies/static/js/main.017d0226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbec386.css",
+    "static/js/main.017d0226.js"
+  ]
+}
