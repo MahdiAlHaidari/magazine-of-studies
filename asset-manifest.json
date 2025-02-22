@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d06686c2.css",
-    "main.js": "/static/js/main.e40192bf.js",
-    "index.html": "/index.html",
-    "main.d06686c2.css.map": "/static/css/main.d06686c2.css.map",
-    "main.e40192bf.js.map": "/static/js/main.e40192bf.js.map"
+    "main.css": "/magazine-of-studies/static/css/main.d06686c2.css",
+    "main.js": "/magazine-of-studies/static/js/main.e40192bf.js",
+    "index.html": "/magazine-of-studies/index.html",
+    "main.d06686c2.css.map": "/magazine-of-studies/static/css/main.d06686c2.css.map",
+    "main.e40192bf.js.map": "/magazine-of-studies/static/js/main.e40192bf.js.map"
   },
   "entrypoints": [
     "static/css/main.d06686c2.css",
