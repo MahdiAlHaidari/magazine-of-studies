@@ -215,9 +215,9 @@ a:focus,
   background-size: cover;
   -o-background-size: cover;
 }
-.intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
-}
+/* .intro .overlay {
+  background: rgba(0, 0, 0, 0.1);
+} */
 .intro h1 {
   font-family: "Markazi Text", "Raleway", sans-serif;
   color: #fff;
@@ -297,11 +297,11 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img {
+  display: block;
   width: 520px;
   margin-top: 10px;
-  background: #fff;
   border-right: 0;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+  margin: 10px auto;
 }
 #about p {
   line-height: 24px;
